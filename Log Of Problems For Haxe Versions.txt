@@ -27,3 +27,17 @@ just find it in the repository for haxe which im using linux
 i used the command line for 4.2.4 which is for shadowengine
 
 
+
+-------------------
+I got it working for html5 
+I made a .gitmodules for the root of the repository 
+and used these code
+
+[submodule "FNF-PsychEngine"] 
+  path = FNF-PsychEngine 
+  url = https://github.com/DerpySlurrpe/DsychEngine
+  i added that in the .gitmodules files and it work for some reason
+  
+  
+  it failed building without the files because of this 
+  
