@@ -1,3 +1,3 @@
-[submodule "DsychEngineUltimate/FNF-PsychEngine"] 
-  path = path_to_submodule 
-  url = DsychEngineUltimate/FNF-PsychEngine
+[submodule "FNF-PsychEngine"] 
+  path = FNF-PsychEngine 
+  url = https://github.com/DerpySlurrpe/DsychEngine
