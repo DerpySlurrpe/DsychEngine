@@ -41,3 +41,5 @@ and used these code
   
   it failed building without the files because of this 
   
+  I GOT IT TO WORK IF I 
+  GIT RM --CACHED -f EVERYTIME WHEN I GIT ADD .
