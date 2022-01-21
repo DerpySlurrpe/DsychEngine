@@ -1,1 +1,7 @@
 Change Donate Button To Sub To Derpy
+Made bf and them together on title screen
+swipe down anim on title when pressed
+playable bf and gf
+
+
+(maybe give a better lua system )

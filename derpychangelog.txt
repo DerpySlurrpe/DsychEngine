@@ -1,7 +1,12 @@
 Score System Text More Rewarding 
 Maybe Working Discord Status Support Typed By Derpy
 New Sounds Added So it dosent get that old 
-	public static var ratingStuff:Array<Dynamic> = [
+Made New Main Menu Animations 
+Better Chart Editor
+
+
+
+public static var ratingStuff:Array<Dynamic> = [
 		['Straight FNF Funkin Garbage!', 0.2], //From 0% to 19%
 		['Awful', 0.4], //From 20% to 39%
 		['Bad', 0.5], //From 40% to 49%
