@@ -21,3 +21,11 @@ bf-pixel-opponent
 pico-player
 faker-bf
 CrazyBob
+lordX
+sonicLord
+tails
+bosta
+sonic
+redtails
+SonicTheHedgehog
+exeller_remake

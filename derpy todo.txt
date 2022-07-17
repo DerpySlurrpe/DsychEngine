@@ -1,7 +1,11 @@
 Change Donate Button To Sub To Derpy
 Made bf and them together on title screen
-swipe down anim on title when pressed
+swipe down anim on title when pressed better tweened and fixed
 playable bf and gf
+add week 7 assets
+
+Somehow bf reacts to notes in the vertex editor
+he appears when enabled
 
 
 (maybe give a better lua system )

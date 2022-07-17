@@ -3,6 +3,7 @@ Maybe Working Discord Status Support Typed By Derpy
 New Sounds Added So it dosent get that old 
 Made New Main Menu Animations 
 Better Chart Editor
+Perfect score is easier to get than just 100%
 
 
 

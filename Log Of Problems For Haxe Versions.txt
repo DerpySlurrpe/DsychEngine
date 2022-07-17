@@ -43,3 +43,10 @@ and used these code
   
   I GOT IT TO WORK IF I 
   GIT RM --CACHED -f EVERYTIME WHEN I GIT ADD .
+  
+  
+  
+  -----------------------------
+  
+  
+  Figured out why it dosent work code is used from maybe FLX.sound that wasnt in the old versison of haxe https://api.haxeflixel.com/flixel/system/FlxSound.html

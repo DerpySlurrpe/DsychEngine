@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "fakeidle"
+		},
+		{
+			"offsets": [
+				74,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "fakeleft"
+		},
+		{
+			"offsets": [
+				-16,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "fakeright"
+		},
+		{
+			"offsets": [
+				-20,
+				53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "fakeup"
+		},
+		{
+			"offsets": [
+				46,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "fakedown"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SONIC LORD",
+	"position": [
+		0,
+		-100
+	],
+	"healthicon": "FAKER X ICONS",
+	"flip_x": false,
+	"healthbar_colors": [
+		48,
+		26,
+		124
+	],
+	"camera_position": [
+		-20,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
