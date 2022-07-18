@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="exeller remake.png">
+<TextureAtlas imagePath="exeller_remake.png">
 	<!-- Created with Adobe Animate version 19.0.0.326 -->
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="down0000" x="0" y="0" width="697" height="689" frameX="0" frameY="-1" frameWidth="697" frameHeight="690"/>

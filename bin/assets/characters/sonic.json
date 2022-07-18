@@ -3,138 +3,86 @@
 		{
 			"offsets": [
 				-1,
-				-6
-			],
-			"loop": false,
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "sonic Sing Note LEFT",
-			"indices": []
-		},
-		{
-			"offsets": [
-				0,
-				-10
-			],
-			"loop": false,
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "sonic Sing Note DOWN",
-			"indices": []
-		},
-		{
-			"offsets": [
-				-6,
-				10
-			],
-			"loop": false,
-			"anim": "singUP",
-			"fps": 24,
-			"name": "sonic Sing Note UP",
-			"indices": []
-		},
-		{
-			"offsets": [
-				-4,
-				2
-			],
-			"loop": false,
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "sonic Sing Note RIGHT",
-			"indices": []
-		},
-		{
-			"offsets": [
-				0,
 				0
 			],
 			"loop": false,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "sonic idle dance",
-			"indices": []
+			"indices": [],
+			"name": "sonic idle"
 		},
 		{
 			"offsets": [
-				0,
+				-10,
 				0
 			],
-			"loop": true,
+			"loop": false,
 			"fps": 24,
-			"anim": "idle-loop",
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sonic down"
+		},
+		{
+			"offsets": [
+				20,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sonic up"
+		},
+		{
+			"offsets": [
+				28,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sonic right"
+		},
+		{
+			"offsets": [
+				-39,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
 			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
 				10,
 				11,
-				12,
 				12
 			],
-			"name": "sonic idle dance"
-		},
-		{
-			"offsets": [
-				-9,
-				10
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "singLEFT-loop",
-			"indices": [
-				12,
-				13,
-				14,
-				15
-			],
-			"name": "sonic Sing Note LEFT"
-		},
-		{
-			"offsets": [
-				0,
-				27
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "singRIGHT-loop",
-			"indices": [
-				15,
-				16,
-				17,
-				18
-			],
-			"name": "sonic Sing Note RIGHT"
-		},
-		{
-			"offsets": [
-				-6,
-				50
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "singUP-loop",
-			"indices": [
-				56,
-				57,
-				58,
-				59
-			],
-			"name": "sonic Sing Note UP"
+			"name": "sonic left"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/sonic",
+	"image": "characters/SonicTheHedgehog",
 	"position": [
-		-480,
-		0
+		0,
+		190
 	],
-	"healthicon": "sonio",
-	"flip_x": false,
+	"healthicon": "sonic",
+	"flip_x": true,
 	"healthbar_colors": [
 		0,
-		42,
-		206
+		107,
+		255
 	],
 	"camera_position": [
-		0,
+		-50,
 		0
 	],
 	"sing_duration": 6.1,

@@ -1,0 +1,38 @@
+{
+	"song": {
+		"song": "Fresh",
+		"notes": [],
+		"events": [
+			[
+				116250,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"lordX"
+					]
+				]
+			],
+			[
+				116437.5,
+				[
+					[
+						"",
+						"Dad",
+						"Entrance"
+					]
+				]
+			]
+		],
+		"bpm": 160,
+		"needsVoices": true,
+		"speed": 3.1,
+		"mania": 3,
+		"player1": "tails",
+		"player2": "sonicLord",
+		"player3": null,
+		"gfVersion": "tails",
+		"stage": "welcome",
+		"validScore": false
+	}
+}

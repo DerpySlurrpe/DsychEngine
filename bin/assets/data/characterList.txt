@@ -26,6 +26,8 @@ sonicLord
 tails
 bosta
 sonic
+sa1
+sonic_mad
 redtails
 SonicTheHedgehog
 exeller_remake
