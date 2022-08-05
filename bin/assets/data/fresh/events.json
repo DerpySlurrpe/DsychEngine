@@ -4,35 +4,55 @@
 		"notes": [],
 		"events": [
 			[
-				116250,
+				0,
 				[
 					[
-						"Change Character",
-						"Dad",
-						"lordX"
+						"Add Camera Zoom",
+						"",
+						"-0.90"
 					]
 				]
 			],
 			[
-				116437.5,
+				1714.2857142857142,
 				[
 					[
+						"Add Camera Zoom",
 						"",
-						"Dad",
-						"Entrance"
+						"-0.90"
+					]
+				]
+			],
+			[
+				6857.142857142857,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"-0.90"
+					]
+				]
+			],
+			[
+				8571.42857142857,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"-0.90"
 					]
 				]
 			]
 		],
-		"bpm": 160,
+		"bpm": 140,
 		"needsVoices": true,
 		"speed": 3.1,
 		"mania": 3,
-		"player1": "tails",
-		"player2": "sonicLord",
+		"player1": "bf",
+		"player2": "sonic",
 		"player3": null,
-		"gfVersion": "tails",
-		"stage": "welcome",
+		"gfVersion": "gf",
+		"stage": "stage",
 		"validScore": false
 	}
 }
